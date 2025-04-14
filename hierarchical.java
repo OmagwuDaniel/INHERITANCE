@@ -1,3 +1,4 @@
+//HIERARCHICAL INHERTANCE
 class Physics{
     public void display(){
         System.out.println("he studies physics");
