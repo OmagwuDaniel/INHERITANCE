@@ -1,3 +1,4 @@
+//MULTILINE INHERITANCE
 class Animals{
     public void display(){
         System.out.println("animals");
