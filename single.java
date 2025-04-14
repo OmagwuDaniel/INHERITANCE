@@ -1,10 +1,11 @@
+//SINGLE INHERITANCE
 class Person{
     public void show(){
         System.out.println("the person is a student");
     }
 }
 
-class Student extends Person{//single
+class Student extends Person{
     public void display(){
         System.out.println("new student");
     }
